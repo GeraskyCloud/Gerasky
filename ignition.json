@@ -1,0 +1,1 @@
+{"ignition":{"config":{},"security":{"tls":{}},"timeouts":{},"version":"2.3.0"},"networkd":{},"passwd":{"users":[{"name":"core","sshAuthorizedKeys":["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHqSCbokc1SAY+C+OiJ+zTt3s/3mPI92oRbapXSBePqT sezgin.bilge@tetrabilisim.com.tr"]}]},"storage":{},"systemd":{}}

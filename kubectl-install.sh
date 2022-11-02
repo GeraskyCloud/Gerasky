@@ -1,3 +1,4 @@
+#!/bin/bash
 CNI_VERSION="v1.1.1"
 CRICTL_VERSION="v1.25.0"
 RELEASE_VERSION="v0.9.0"
